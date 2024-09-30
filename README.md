@@ -1,10 +1,10 @@
-Understanding The Market: New Product Launch
+**Understanding The Market: New Product Launch**
 
-Overview
+**Overview**
 
 Strategic approaches used by companies when introducing new products in competitive markets dominated by well-established companies.
 
-Resorces
+**Resorces**
 
 Blog - https://medium.com/@ikeopoku/understanding-the-market-new-product-launch-5d9990306be8
 
