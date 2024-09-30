@@ -5,4 +5,4 @@ Strategic approaches used by companies when introducing new products in competit
 
 Resorces
 Blog
-Linkeddlin
+Linkedin
