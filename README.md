@@ -1,6 +1,7 @@
 # New Product Launch Analysis
 
 **Author**: Isaac Opoku
+
 Email: ikeopoku@outlook.com  
 [Read the full write-up on Medium](https://medium.com/@ikeopoku/understanding-the-market-new-product-launch-5d9990306be8)  
 [Connect on LinkedIn](https://www.linkedin.com/in/isaac-opoku-analytics-economics-specialist/)
