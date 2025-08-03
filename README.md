@@ -1,5 +1,17 @@
 # New Product Launch Analysis
 
+**Author**: Isaac Opoku
+Email: ikeopoku@outlook.com  
+[Read the full write-up on Medium](https://medium.com/@ikeopoku/understanding-the-market-new-product-launch-5d9990306be8)  
+[Connect on LinkedIn](https://www.linkedin.com/in/isaac-opoku-analytics-economics-specialist/)
+[Portfolio](https://sites.google.com/view/isaac-opoku)
+[Medium](https://medium.com/@ikeopoku)
+
+
+---
+
+## Overview
+
 This project analyzes strategic approaches companies use when launching new products into competitive markets dominated by established players.
 
 It merges insights from:
